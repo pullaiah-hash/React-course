@@ -1,0 +1,82 @@
+
+body{
+  background-color: #f2efea;
+}
+*{
+  padding: 0px;
+  margin: 0px;
+}
+img{
+  width: 100px;
+  height: 100px;
+}
+.card{
+width: 300px;
+margin: auto ;
+margin: 10px;
+transform: translate(500px,40px);
+}
+ .top{
+  background-color: #03c4a1;
+ 
+  height: 60px;
+
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  position: relative;
+  
+}
+.bottom{
+  background-color: #a6f6f1;
+  height: 100px;
+  
+}
+.name{
+ 
+  padding: 5px;
+
+}
+.tell{
+
+  padding: 15px;
+}
+.mail{
+  padding: 5px;
+}
+.circle-image{
+  border-radius: 50%;
+ position: relative;
+ left: 150px;
+ bottom: 40px;
+}
+form{
+ 
+  text-align: center;
+ 
+  
+}
+.login input{
+ 
+  display: flex;
+  margin: 8px;
+  padding: 5px;
+  border: 1px solid #fff;
+  background-color: #a6f6f1;
+  text-align: center;
+  outline: none;
+}
+.login button{
+  padding: 8px;
+  color: #03c4a1;
+  border: none;
+  position: relative;
+  left: 0px;
+
+  
+}
+.login{
+padding: 60px;
+  margin: auto 500px;
+  background-color: #03c4a1;
+  
+}

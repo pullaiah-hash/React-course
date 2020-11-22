@@ -1,0 +1,49 @@
+
+.Advice{
+    margin: auto;
+    color: #ea2c62;
+    text-align: center;
+    width: 1000px;
+    height: 150px;
+    background-color: #7e7474;
+    opacity: 2;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px #ea2c62;
+ 
+   
+}
+
+.Btn{
+position: relative;
+outline: none;
+border-style: none;
+background-color: #898b8a;
+border: none;
+display: flex;
+justify-content: center;
+text-align: center;
+left: 480px;
+top: 8px;
+
+width: 150px;
+height: 30px;
+
+}
+.Btn:hover{
+    transition: width 2s ;
+    transition-delay: 2s;
+}
+.Ad{
+    
+    text-align: center;
+}
+h1{
+  
+    display: flex;
+    align-items: center;
+    height: 100px;
+    color: #fff;
+    margin-left: 40px;
+}
+
+

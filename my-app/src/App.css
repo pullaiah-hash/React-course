@@ -1,0 +1,19 @@
+.app{
+  margin: auto;
+  text-align: center;
+}
+
+header nav ul{
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  
+}
+
+header nav ul li{
+  margin: 20px;
+}
+header nav ul li a{
+  text-decoration: none;
+  font-size: large;
+}

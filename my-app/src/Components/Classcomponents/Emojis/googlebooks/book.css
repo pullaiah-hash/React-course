@@ -1,0 +1,19 @@
+.Book{
+display: flex;
+
+}
+.shakes{
+    float: right;
+    margin-left: 20px;
+    margin-left: 20px;
+}
+.Book img{
+    width: 100px;
+    height: 180px;
+}
+.Book button{
+    border-radius: 30px;
+    padding: 5px;
+    margin-left: 10px;
+    background-color: #fff;
+}
